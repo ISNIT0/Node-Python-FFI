@@ -1,3 +1,8 @@
+# Node Python FFI
+Docs to come.
+For now, see `test.js`
+
+
 # Contributing
 
 ```bash
